@@ -28,7 +28,7 @@ ifeq ($(OS_NAME), Darwin)
 endif
 
 ifeq ($(OS_NAME), Linux)
-    JDK_RT ?= /usr/lib/jvm/java-1.7.0/jre/lib/rt.jar
+    JDK_RT ?= /usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar
 endif
 
 ifeq ($(OS_NAME), SunOS)
@@ -92,4 +92,3 @@ check-notx:
 clean:
 	rm -rf bin/*
 	rm ${BENCH} ${MYDEUCE} ${RT}
-

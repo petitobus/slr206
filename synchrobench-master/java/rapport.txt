@@ -1,0 +1,25 @@
+The system details of the machine:
+Architecture :        x86_64
+Mode(s) opératoire(s) des processeurs : 32-bit, 64-bit
+Boutisme :            Little Endian
+Processeur(s) :       4
+Liste de processeur(s) en ligne : 0-3
+Thread(s) par cœur : 2
+Cœur(s) par socket : 2
+Socket(s) :           1
+Nœud(s) NUMA :       1
+Identifiant constructeur : GenuineIntel
+Famille de processeur : 6
+Modèle :             60
+Nom de modèle :      Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+Révision :           3
+Vitesse du processeur en MHz : 887.054
+Vitesse maximale du processeur en MHz : 3400,0000
+Vitesse minimale du processeur en MHz : 800,0000
+BogoMIPS :            6784.92
+Virtualisation :      VT-x
+Cache L1d :           32K
+Cache L1i :           32K
+Cache L2 :            256K
+Cache L3 :            3072K
+Nœud NUMA 0 de processeur(s) : 0-3
