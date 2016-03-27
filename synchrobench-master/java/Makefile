@@ -92,3 +92,10 @@ check-notx:
 clean:
 	rm -rf bin/*
 	rm ${BENCH} ${MYDEUCE} ${RT}
+
+
+threads := 1 2 
+test:
+
+	chmod +x test.sh
+	./test.sh
